@@ -1,0 +1,13 @@
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\bin\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.exe.config
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\bin\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.exe
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\bin\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.pdb
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp_ADO_CONECTADO_Ejercicio_1_y_2.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp_ADO_CONECTADO_Ejercicio_1_y_2.Form2.resources
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp_ADO_CONECTADO_Ejercicio_1_y_2.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.exe
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp ADO CONECTADO Ejercicio 1 y 2.pdb
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp_ADO_CONECTADO_Ejercicio_1_y_2.Form3.resources
+C:\Users\tomas\OneDrive\Desktop\Programas Desarrollo y Arquitectura de Software\Tp ADO CONECTADO\Tp ADO CONECTADO Ejercicio 1 y 2\obj\Debug\Tp_ADO_CONECTADO_Ejercicio_1_y_2.Form4.resources
